@@ -1,4 +1,4 @@
 # site-exemplo
 Este é um site da disciplina de PW3
 
-![Lina](https://media.giphy.com/media/iddudcV21WULKPyOpB/giphy.gif)
+![BBB](https://c.tenor.com/P_-mLhVppbsAAAAd/bbb-22.gif)
